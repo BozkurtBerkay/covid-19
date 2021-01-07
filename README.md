@@ -1,4 +1,4 @@
-### `Demo Link : https://covid-19-turkey.herokuapp.com/`
+### `Demo Link` : Click (https://covid-19-turkey.herokuapp.com/)
 
 # Getting Started with Create React App
 
